@@ -200,7 +200,7 @@ class Almamater():
 
 def out(test):
 
-    alma  = ascii.read("data/alma.csv", guess=False, header_start=0,
+    alma  = ascii.read("alma.csv", guess=False, header_start=0,
             data_start=1, delimiter=',', quotechar='"')
     names  = alma['Name']
     cities = alma['City']
@@ -267,7 +267,7 @@ def out(test):
 if __name__ == '__main__':
 # almamater map file exported from university_list file
 
-    alma  = ascii.read("data/alma.csv", guess=False, header_start=0,
+    alma  = ascii.read("alma.csv", guess=False, header_start=0,
         data_start=1, delimiter=',', quotechar='"')
     #test = sys.argv[1]
     test = "Department of Pharmaceutical Sciences and Drug Research, Punjabi University, Patiala-147 002, India"
