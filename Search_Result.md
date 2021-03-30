@@ -1,6 +1,7 @@
 # Zealbots Search Result page
 
 Zealbots Search Result page display and function details:
+(if any missing details update this issue... )
 
 ### Display content details:
  - [ ] Search box  
@@ -16,6 +17,7 @@ Zealbots Search Result page display and function details:
     - [ ] Articles pdf url link button
     - [ ] Articles add to collection button
  - [ ] articles pagenation 
+ - [ ] Artices multiple select checkbox (this for multiple Citation Download and add to user Colletion )
     
   ### Function:
  - [ ] Meilisearch api integration
@@ -27,7 +29,7 @@ Zealbots Search Result page display and function details:
     - [ ] Date 
     - [ ] Impact factor
     - [ ] CItation Count
- - [ ] Articles add into user collection
+ - [ ] Articles add into user collection 
  - [ ] Articles pdf download 
  - [ ] Articles Citation download
   
