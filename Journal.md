@@ -29,6 +29,7 @@ Zealbots Journal page display and function details:
    
  - [ ] Articles pagenation 
  - [ ] All articles Keyword 
+ - [ ] Keyword pagenation 
  - [ ] Artices multiple select checkbox (this for multiple Citation Download and add to user Colletion )
     
   ### Function:
