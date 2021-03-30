@@ -7,15 +7,17 @@ Zealbots Search Result page display and function details:
  - [ ] Search box  
  - [ ] articles content
     - [ ] Title 
-    - [ ] Journal
+    - [ ] Journal with link
     - [ ] Impact factor
     - [ ] Abstract 
     - [ ] Pub data
     - [ ] Pub type
-    - [ ] Author
+    - [ ] Author with link
     - [ ] Articles html url link button
     - [ ] Articles pdf url link button
     - [ ] Articles add to collection button
+    - [ ] Articles reference
+    - [ ] Articles citation
  - [ ] articles pagenation 
  - [ ] Artices multiple select checkbox (this for multiple Citation Download and add to user Colletion )
     
