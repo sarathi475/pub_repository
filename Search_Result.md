@@ -26,9 +26,10 @@ Zealbots Search Result page display and function details:
     - [ ] Impact factor
     - [ ] CItation Count
  - [ ] Filter  
-    - [ ] Date 
-    - [ ] Impact factor
-    - [ ] CItation Count
+    - [ ] pub date 
+    - [ ] journal 
+    - [ ] Author
+    - [ ] Institute
  - [ ] Articles add into user collection 
  - [ ] Articles pdf download 
  - [ ] Articles Citation download
