@@ -40,8 +40,6 @@ Zealbots Journal page display and function details:
   
   
   ## Reference Documentaion:
- * Meilisearch - https://docs.meilisearch.com/learn/getting_started/quick_start.html
- * sorting and filter page ref: https://medium.com/swlh/filtering-sorting-and-searching-in-arrays-with-vue-js-f60951c040fc
- * table sorting page ref: https://tochoromero.github.io/vuejs-smart-table/sorting/#table-header (this not perfect, sorting idea)
+
    
 
