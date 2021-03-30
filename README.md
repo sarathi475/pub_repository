@@ -5,7 +5,7 @@ Zealbots v4 development process task splited page wise.
 | No | Plugin | README | UI development | Backend API Integration|
 | ------ | ------ | ------ |  ------ | ------ |
 | 1 | Home | [Home.md][Home] |
-| 2 | Search Result | [Search Result.md][SearchResult] |
+| 2 | Search Result | [Search_Result.md][SearchResult] |
 | 3 | Article Detail Page | [Article_Detail.md][ArticleDetail] |
 | 4 | Journal Page | [Journal.md][Journal] |
 | 5 | Author Page | [Author.md][Author] |
@@ -24,9 +24,8 @@ Zealbots v4 development process task splited page wise.
 | 18 | Contact Page | [Contact.md][Contact] |
 | 19 | Dashboard Page | [Dashboard.md][Dashboard] |
 
-
  [Home]: <Home.md>
- [SearchResult]: <Search Result.md>
+ [SearchResult]: <Search_Result.md>
  [ArticleDetail]: <Article_Detail.md>
 [Journal]: <Journal.md>
 [Author]: <Author.md>
