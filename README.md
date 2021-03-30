@@ -21,7 +21,7 @@ Zealbots v4 development process task splited page wise.
 
 
 
-Static PAGES
+# Static PAGES
 
 - [ ] Download Page
      
