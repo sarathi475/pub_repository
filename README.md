@@ -98,6 +98,8 @@ Zealbots v4 development process task splited page wise.
 | 17 | Privacy Page | [Privacy.md][Privacy] |
 | 18 | Contact Page | [Contact.md][Contact] |
 | 19 | Dashboard Page | [Dashboard.md][Dashboard] |
+
+
  [Home]: <Home.md>
  [SearchResult]: <Search Result.md>
  [ArticleDetail]: <Article_Detail.md>
