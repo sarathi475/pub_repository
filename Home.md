@@ -16,7 +16,7 @@ Zealbots home page display and function details:
     - [ ] our articles statistics
     
   ### function:
-    - [ ] meilisearch 
+ - [ ] Meilisearch 
   
   
   ## Reference Documentaion:
