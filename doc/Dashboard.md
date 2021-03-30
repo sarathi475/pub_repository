@@ -5,21 +5,21 @@ Zealbots DashBoard page display and function details:
 ### Tab content:
 
 - [ ] DashBoards Page
-       - [ ] Bot Count / Zkloud Storage / Coillection Count 
-       - [ ] Calender / Task Note
-       - [ ] Recommendations Articles
+  - [ ] Bot Count / Zkloud Storage / Coillection Count 
+  - [ ] Calender / Task Note
+  - [ ] Recommendations Articles
 
 - [ ] Bot
-       - [ ] Bots in DropDown
-       - [ ] See for Bot.md
+  - [ ] Bots in DropDown
+  - [ ] See for Bot.md
 
 - [ ] Colection
-       - [ ] Collection name DropDown
-       - [ ] See the collection.md
+  - [ ] Collection name DropDown
+  - [ ] See the collection.md
 
 - [ ] Zkloud
-        - [ ] Redirect to Zkloud
-        - [ ] See the Zkould.md 
+  - [ ] Redirect to Zkloud
+  - [ ] See the Zkould.md 
 
   ### function:
  - [ ] Get the bot List

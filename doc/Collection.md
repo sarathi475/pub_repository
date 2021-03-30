@@ -10,19 +10,19 @@ Zealbots Collection page display and function details:
 
 - [ ] Detail Page
    - [ ] articles content
-              - [ ] Title 
-              - [ ] Journal with link
-              - [ ] Impact factor
-              - [ ] Abstract 
-              - [ ] Pub data
-              - [ ] Pub type
-              - [ ] Author with link
-              - [ ] Articles html url link button
-              - [ ] Articles pdf url link button
-              - [ ] Articles add to collection button
-              - [ ] Articles reference
-              - [ ] Articles citation
-              - [ ] Like / DisLike
+        - [ ] Title 
+        - [ ] Journal with link
+        - [ ] Impact factor
+        - [ ] Abstract 
+        - [ ] Pub data
+        - [ ] Pub type
+        - [ ] Author with link
+        - [ ] Articles html url link button
+        - [ ] Articles pdf url link button
+        - [ ] Articles add to collection button
+        - [ ] Articles reference
+        - [ ] Articles citation
+        - [ ] Like / DisLike
     - [ ] Collection Article Remove
     - [ ] Citation Download
     - [ ] PDF save to zkloud
