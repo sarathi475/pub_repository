@@ -12,8 +12,9 @@ Zealbots Search Result page display and function details:
     - [ ] Pub data
     - [ ] Pub type
     - [ ] Author
-    - [ ] Articles html url link 
-    - [ ] articles pdf url link
+    - [ ] Articles html url link button
+    - [ ] Articles pdf url link button
+    - [ ] Articles add to collection button
  - [ ] articles pagenation 
     
   ### Function:
